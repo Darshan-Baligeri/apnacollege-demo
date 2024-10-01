@@ -1,3 +1,3 @@
 # apnacollege-demo
 well a practice git repository <br>
-Author - Darshan Baligeri
+Author - Darshan J Baligeri
